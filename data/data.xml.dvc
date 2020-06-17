@@ -1,0 +1,7 @@
+md5: 8d0726f6bec82e8568cb06ad73f6aff9
+outs:
+- md5: 71364fd0d0a3a61f0357b2dac6d92a31
+  path: data.xml
+  cache: true
+  metric: false
+  persist: false
